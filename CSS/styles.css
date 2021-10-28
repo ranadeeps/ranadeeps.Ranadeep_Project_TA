@@ -1,0 +1,16 @@
+.container-fluid {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#tArea {
+  padding-top: 40px;
+}
+button {
+  align-self: center;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
