@@ -11,8 +11,6 @@ button {
 .btn {
   display: flex;
   justify-content: center;
-  /* align-items: center;
-  text-align: center; */
 }
 label {
   float: left;
@@ -23,13 +21,13 @@ label {
 }
 .cont {
   display: none;
-  margin-top: 10px;
 }
 #ans {
   margin-top: 10px;
   text-align: center;
   margin-left: 10%;
   margin-right: 10%;
+  padding: 15px;
 }
 #inp {
   margin-top: 10px;
