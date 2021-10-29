@@ -11,6 +11,26 @@ button {
 .btn {
   display: flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center;
+  text-align: center; */
+}
+label {
+  float: left;
+}
+.cbtn {
+  display: flex;
+  justify-content: right;
+}
+.cont {
+  display: none;
+  margin-top: 10px;
+}
+#ans {
+  margin-top: 10px;
   text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#inp {
+  margin-top: 10px;
 }
